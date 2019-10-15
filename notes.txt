@@ -1,0 +1,14 @@
+1. 8 APi is used in blog ui 
+   ->list is 1 - post
+   ->listing authors
+   ->show 1 author , in that page  ------ ||
+   ->all the post that belong to that Author -----||
+   ->to list a posts
+   ->to show the posts
+   ->to get the author name
+   ->to get all the comments for that post
+
+2. ? What if tomorrow the url pf the website changes ! 
+        -> u have to change it in every single place, every where ur doing API calls , make changes
+
+
